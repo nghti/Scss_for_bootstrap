@@ -1,0 +1,29 @@
+// variables
+//
+
+// ---- images path
+$images-path: '../images' !default;
+
+// ---- color
+// https://css-tricks.com/what-do-you-name-color-variables/#comment-1653710
+// http://chir.ag/projects/name-that-color
+
+$color-white-057: rgba(255, 255, 255, 0.57);
+$color-black-05: rgba(0, 0, 0, 0.5);
+$color-transparent: transparent;
+$color-white: #ffffff;
+$color-black: #000000;
+$color-red: #ff0d00;
+$color-blue: #007bff;
+
+// ---- set color
+$color: () !default;
+$color: map-merge(
+  (
+    "white":    $color-white,
+    "black":    $color-black,
+    "red":      $color-red,
+    "blue":     $color-blue
+  ),
+  $color
+);

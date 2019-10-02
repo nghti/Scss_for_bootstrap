@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e354b58-3c58-4ba8-bc49-a1eea47cdfcf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/.stylelintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/_gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/font/Helvetica.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/font/Helvetica.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/font/Helvetica.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/font/Helvetica.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/html/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/js/file1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/js/file2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/pug/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/pug/modules/foot/foot.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/pug/modules/footer/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/pug/modules/head/head.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/pug/modules/header/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/pug/modules/mixin/thumb.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/pug/modules/sidebar/sidebar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/abstracts/_mixin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/abstracts/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/base/_color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/base/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/components/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/components/_form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/components/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/components/_icon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/components/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/components/_modules.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/components/_table.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/components/_utility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/layout/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/layout/_responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/layout/_sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/pages/_top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gulp-Html/src/scss/vendor/_font.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/config/test.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/src/components/ListManager.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/src/components/ListPlayer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/src/components/ListTeam.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/test/e2e/custom-assertions/elementCount.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/test/e2e/nightwatch.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/test/e2e/runner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/test/e2e/specs/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/test/unit/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/test/unit/jest.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/test/unit/setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/test/unit/specs/HelloWorld.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vuejs/router/vue-router/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webpack-Html/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webpack-Html/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webpack-Html/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gulp-Html/src/images/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gulp-Html/src/images/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/abstracts/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/abstracts/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/abstracts/_utility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/abstracts/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/base/_color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/base/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/base/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/components/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/components/_form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/components/_icon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/components/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/components/_modules.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/components/_slider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/components/_table.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/layout/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/layout/_sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/pages/_404.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/pages/_login.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/pages/_register.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/pages/_top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/assets/scss/vendors/_bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-Html/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/.stylelintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/asyncImport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/config/verification.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/exception/404.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/exception/ErrorBoundary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/exception/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/components/AlertVerification.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/components/LoginModal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/components/sidebar/Account.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/components/sidebar/CouponCart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/components/sidebar/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/components/sidebar/OngoingCampaign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/components/sidebar/SellingRace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/components/sidebar/WinNotification.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/components/sidebar/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/desktop/Banner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/desktop/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/desktop/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/desktop/NavigationBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/desktop/Sidebar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/desktop/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/mobile/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/mobile/Sidebar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/layouts/mobile/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/rootReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/rootSaga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/routes/AuthenticatedRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/routes/PublicRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/routes/RedirectRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/routes/RestrictedRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/app/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/avatars/brown_man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/avatars/brown_woman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/avatars/orange_woman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/avatars/pink_man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/avatars/purple_woman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/avatars/red_man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/avatars/yellow_man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/avatars/yellow_woman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/bank/bank1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/bank/bank2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/bank/bank3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/bank/bank4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/bank/bank5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/bank/bank6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/bank/bank7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/bank/bank8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/bank/bank9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/bank/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/bg-vote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/bg_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/bg_img_pc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/delete/bg_img01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/delete/content01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/delete/image01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/delete/image02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/delete/image03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon-faq-collapse-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon-faq-collapse-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_alert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_back_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_bike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_bike_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_bike_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_bike_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_bottom_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_change.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_change_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_check_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_check_orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_crown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_cup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_daily_yamazaki.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_email_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_f2_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_file.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_file_check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_file_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_files.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_flag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_gg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_grade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_hat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_heart_pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_history.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_history_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_lawson.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_leaf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_lip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_load.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_logout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_loto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_mess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_mess_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_mess_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_messe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_messenger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_messengers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_ministop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_money_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_music.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_music_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_nex_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_next_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_next_sc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_next_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_night.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_notick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_number.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_play_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_play_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_play_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_play_white_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_play_yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_pointer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_quest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_question.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_race.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_race_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_seicomart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_set_mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_setting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_show_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_speaker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_speaker2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_sun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_threef.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_tick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_ticked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_to_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_to_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_txt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_user_edit_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_user_setting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_user_setting_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_write.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/icon_yahoo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/incon_user_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/menu/bell-pc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/menu/bell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/menu/bike-pc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/menu/bike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/menu/home-pc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/menu/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/menu/mess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/menu/out-pc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/menu/out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/menu/spritebox-sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/menu/tag-pc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/menu/tag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/menu/write-pc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/icon/menu/write.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/logo-pc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/logo-pc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/bell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/bike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/hd-bike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/hd-card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/hd-mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/hd-mail1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/hd-money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/hd-money1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/hd-qa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/hd-user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/hd-user1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/mess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/menu/tag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/myPage/card_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/myPage/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/myPage/instruction_lawson.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/myPage/instruction_seicomart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/myPage/table-cell-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/myPage/visa1-pc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/myPage/visa1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/myPage/visa2-pc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/myPage/visa2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/myPage/visa3-pc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/myPage/visa3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/myPage/visa4-pc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/myPage/visa4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/others/bg-result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/others/bg_bike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/others/bg_bike_md.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/others/bg_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/others/bg_img02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/others/bike_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/others/black_man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/others/black_woman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/others/card_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/others/default_avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/others/white_man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/top/map_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/top/map_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/top/map_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/top/map_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/top/map_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/top/top-pc-slide-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/top/top-sp-slide-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/top/top-sp-slide-btn-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/upload/card01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/upload/card02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/upload/card03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/upload/card04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/upload/card05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/upload/card06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/images/upload/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/abstracts/_mixin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/abstracts/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/base/_color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/components/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/components/_form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/components/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/components/_icon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/components/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/components/_modules.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/components/_slider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/components/_table.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/components/_utility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/layout/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/layout/_main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/layout/_sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/pages/_404.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/assets/scss/pages/_top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/Notifications/Notifications.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/Notifications/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/Notifications/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/Notifications/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/Button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/Card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/FileInput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/Icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/IconLink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/IframeEmbedded.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/LoadingSpinner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/Paginate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/PresetSetting/ContentSortOfDisplay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/PresetSetting/PresetSettingPopup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/PresetSetting/SortOfDisplay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/PresetSetting/SwitchPopup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/PreventNavigationDialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/Radio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/RadioButtonGroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/RadioInput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/RiderTable/Achievements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/RiderTable/BasicInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/RiderTable/CommonTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/RiderTable/CountDestination.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/RiderTable/LastFourMonths.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/RiderTable/Preset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/RiderTable/RecentAchievements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/RiderTable/ScoreInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/RiderTable/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/RiderTable/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/Select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/TextAreaField.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/TextField.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/UserSetting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/common/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/announcement/Announcements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/announcement/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/announcement/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/announcement/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/announcement/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/announcement/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/AccountSetting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/MailRegistration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/MailRegistrationSuccess.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/MailResetPassWord.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/MailResetPasswordSuccess.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/PageContact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/ProfileEdit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/ReUploadCertificateDone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/ReUploadCertificates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/Registration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/RegistrationDone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/ResetPassword.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/ResetPasswordDone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/UploadCertificates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/componentUI/CardLink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/componentUI/MailSuccessNote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/ChangeAvatar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/Contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/ContactConfirm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/ContactDone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/MailRegistration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/MailRegistrationSuccess.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/MailResetPassword.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/MailSetting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/PasswordSetting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/ProfileEdit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/ReUploadCertificates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/Registration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/ResetPassword.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/components/form/UploadCertificates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/auth/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/banking/BankingAccount.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/banking/BankingCode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/banking/BankingEdit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/banking/BankingFinish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/banking/BankingNumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/banking/BankingPin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/banking/components/baseData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/banking/components/form/BankingNumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/banking/components/form/BankingPin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/banking/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/banking/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/banking/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/banking/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/banking/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/CharilotoComplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/CharilotoPurchased.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/CharilotoResult.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/CharilotoResultDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/CharilotoSelection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/CharilotoTicket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/components/ChargeData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/components/CharilotoHistories.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/components/CharilotoInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/components/CharilotoInformation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/components/CharilotoResultTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/components/RaceDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/chariloto/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/common/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/common/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/common/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/common/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/favorite/FavoritePlace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/favorite/FavoriteRider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/favorite/components/desktop/InfoRiderDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/favorite/components/desktop/Rider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/favorite/components/desktop/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/favorite/components/mobile/InfoRiderDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/favorite/components/mobile/Rider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/favorite/components/mobile/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/favorite/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/favorite/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/favorite/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/favorite/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/favorite/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/Message.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/MessageBlocked.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/MessageDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/MessageGlobalRoom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/MessageReport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/MessageUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/components/PlaceRoomMessage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/components/PlacesToday.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/components/UserMessagesDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/components/UserReportModal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/message/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/ATMCharge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/AutoChargeSetting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/ChargeCombini.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/ChargePurchaseFund.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/ChargePurchaseFundComplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/ListRefundHistory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/MyPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/MyPagePastHistory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/MyPagePoint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/MyPagePointCharge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/MyPagePurchasedVoting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/NetChargePurchaseFund.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/NetChargePurchaseFundComplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/ReceivingRefund.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/ReceivingRefundMoney.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/ReceivingRefundMoneyComplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/RefundChargeConfirm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/RefundChargeSuccess.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/VoteHistory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/VoteHistoryDetails.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/Favorite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/InstructionCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/RefundHistory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/Table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/VoteHistory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/VoteRace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/desktop/FavoritePlayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/desktop/PointCharge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/desktop/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/form/CreditCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/form/ReceivingRefundMoney.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/mobile/FavoritePlayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/mobile/InfoFavoriteDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/mobile/Notice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/mobile/Profile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/mobile/RefundChargeInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/mobile/Ticket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/components/mobile/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/myPage/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/RaceInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/RaceResult.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/RaceSchedule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/RaceTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/BettingSelection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/EventRace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/FifthOddTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/FourthOddTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/InfoOrganize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/InfoSchedule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/OddsTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/ScheduleSelection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/SecondOddTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/SeventhOddTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/SixthOddTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/ThirdOddTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/desktop/EntryTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/desktop/RaceResultTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/desktop/RaceScheduleTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/helps/constData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/mobile/EntryTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/components/mobile/RaceScheduleTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/race/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/static/CommercialTransactionLaw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/static/FAQ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/static/NewsletterUsingConvention.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/static/PrivacyPolicy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/static/TermOfUse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/static/components/ComponentFromHtmlString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/static/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/static/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/static/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/static/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/static/withCollapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/Top.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/components/BicyclingVenues.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/components/CampaignBan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/components/Chariloto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/components/HeaderTop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/components/Notice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/components/RaceResult.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/components/Schedule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/components/ScrollBackToTop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/components/SellingRace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/components/Voting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/top/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/ConfirmContentVote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/PurchaseTickets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/RaceSelection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/VoucherPurchaseComplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/ConfirmPairsVote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/ConfirmVote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/InfoRace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/InfoVote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/LinePositions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/NotificationVote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/OddsBuying.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/OddsTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/PairsVote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/PopularBuying.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/PurchasedTickets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/SelectedVote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/TicketPreset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/VoteConfirm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/VoteOtherRace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/VoteSelecting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/VoteTab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/helpers/constData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/helpers/function.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/voteOdds/BicycleShows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/voteOdds/BicycleWins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/voteOdds/FrameShows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/voteOdds/FrameWins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/voteOdds/TrifectaShows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/voteOdds/TrifectaWins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/voteOdds/Wides.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/votePlayer/BettingVoteButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/votePlayer/ContentVoteButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/votePlayer/PlayerChoosing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/votePlayer/PlayerInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/votePlayer/VoteChoosing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/votePlayer/renderButton/RenderLargeButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/votePlayer/renderButton/RenderMediumButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/votePlayer/renderButton/RenderSmallButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/votePlayer/renderButton/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/votePlayer/renderTable/RenderLargeColumn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/votePlayer/renderTable/RenderMediumColumn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/votePlayer/renderTable/RenderSmallColumn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/components/votePlayer/renderTable/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/features/vote/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/registerServiceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/services/announcement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/services/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/services/banking.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/services/charge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/services/chariloto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/services/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/services/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/services/favorite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/services/message.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/services/program.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/services/race.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/services/static.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/services/vote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/utils/MomentHelper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/utils/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/utils/betting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/utils/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/utils/hashids.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/utils/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/utils/httpStatus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/utils/string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/utils/time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src/utils/validations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/App.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/App.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/App.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/Emoji.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/First.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/Fourth.module.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/Second.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/Third.module.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/src_/registerServiceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-default-react/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/.stylelintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/app/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/app/exception/404.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/app/exception/ErrorBoundary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/app/exception/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/app/layouts/Container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/app/rootReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/app/rootSaga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/app/routes/AuthenticatedRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/app/routes/PublicRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/app/routes/RedirectRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/app/routes/RestrictedRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/app/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/app/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/abstracts/_mixin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/abstracts/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/base/_color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/components/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/components/_form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/components/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/components/_icon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/components/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/components/_modules.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/components/_slider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/components/_table.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/components/_utility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/layout/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/layout/_main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/layout/_sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/pages/_404.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/assets/scss/pages/_top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/common/TextField.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/about/About.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/about/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/about/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/about/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/about/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/auth/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/auth/components/form/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/auth/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/auth/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/auth/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/auth/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/top/Top.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/top/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/top/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/top/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/features/top/store/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/registerServiceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/services/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/services/message.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/utils/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/utils/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/utils/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-react/src/utils/validations.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.49453375">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/assets/scss/components/_modules.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="680">
+                  <caret line="34" selection-start-line="34" selection-end-line="34" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/assets/scss/layout/_header.scss">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/assets/scss/layout/_sidebar.scss">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/assets/scss/layout/_footer.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="40">
+                  <caret line="2" selection-start-line="2" selection-end-line="2" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/assets/scss/pages/_ie.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="160">
+                  <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/assets/scss/components/_form.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="420">
+                  <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/assets/scss/components/_modal.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="260">
+                  <caret line="13" selection-start-line="13" selection-end-line="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/assets/scss/components/_icon.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="40">
+                  <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/assets/scss/components/_table.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="40">
+                  <caret line="2" selection-start-line="2" selection-end-line="2" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/assets/scss/main.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="360">
+                  <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="400">
+                    <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/build/css/main.blocks.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-28452">
+                  <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+                  <folding>
+                    <element signature="e#28701#28935#2" expanded="true" />
+                    <element signature="e#29846#29999#1" expanded="true" />
+                    <element signature="e#30041#30275#1" expanded="true" />
+                    <element signature="e#33655#33931#2" expanded="true" />
+                    <element signature="e#34870#35023#1" expanded="true" />
+                    <element signature="e#35065#35341#1" expanded="true" />
+                    <element signature="e#69477#69664#2" expanded="true" />
+                    <element signature="e#69919#70055#2" expanded="true" />
+                    <element signature="e#70508#70641#2" expanded="true" />
+                    <element signature="e#72011#72164#1" expanded="true" />
+                    <element signature="e#85701#85931#2" expanded="true" />
+                    <element signature="e#86962#87198#2" expanded="true" />
+                    <element signature="e#121834#122011#2" expanded="true" />
+                    <element signature="e#122066#122243#2" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$border-width</find>
+      <find>$border-radius</find>
+      <find>$grid-breakpoints</find>
+      <find>breakpoint-infix</find>
+      <find>$breakpoint</find>
+      <find>color-yiq</find>
+      <find>$yiq-text-dark</find>
+      <find>$yiq-text-light</find>
+      <find>$yiq-contrasted-threshold</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\HoangTu\Desktop\Source-Demo\WebpackConfig_ScssBstrap\node_modules\bootstrap\scss</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/assets/scss/abstracts/_variables.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/components/_buttons.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/components/_table.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/components/_form.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/components/_modal.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/components/_modules.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/pages/_ie.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/main.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/vendors/_bootstrap.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/abstracts/_functions.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/abstracts/_utility.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-129" />
+    <option name="width" value="1936" />
+    <option name="height" value="1216" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebpackConfig_Bootstrap-Scss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebpackConfig_Bootstrap-Scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebpackConfig_Bootstrap-Scss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebpackConfig_Bootstrap-Scss" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebpackConfig_Bootstrap-Scss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebpackConfig_Bootstrap-Scss" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editorconfig.notification" value="null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Reactjs" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HoangTu\Desktop\Source-Demo\WebpackConfig_ScssBstrapAdmin\src\assets\scss\pages" />
+      <recent name="C:\Users\HoangTu\Desktop\Source-Demo\WebpackConfig_ScssBstrapAdmin\src\assets\scss\layout" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e354b58-3c58-4ba8-bc49-a1eea47cdfcf" name="Default Changelist" comment="" />
+      <created>1568706145815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568706145815</updated>
+      <workItem from="1568706146931" duration="211000" />
+      <workItem from="1568706659617" duration="4732000" />
+      <workItem from="1568775823212" duration="5383000" />
+      <workItem from="1568781413790" duration="386000" />
+      <workItem from="1568782041132" duration="5953000" />
+      <workItem from="1569810207707" duration="12816000" />
+      <workItem from="1569894459784" duration="6675000" />
+      <workItem from="1569903681155" duration="91000" />
+      <workItem from="1569903871616" duration="738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="36985000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-129" width="1936" height="1216" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14805058" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21052632" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../wak_frontend/src/assets/scss/abstracts/_functions.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/_slider.scss" />
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/pages/_login.scss" />
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_border-radius.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/bundle.css" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_visibility.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/sass/lib/sass.jar!/org/jetbrains/plugins/sass/stdlib/sass_functions.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="1193" column="10" selection-start-line="1193" selection-start-column="10" selection-end-line="1193" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_borders.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_flex.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_breakpoints.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22040">
+          <caret line="1102" column="50" selection-start-line="1102" selection-start-column="50" selection-end-line="1102" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_functions.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="60" column="11" lean-forward="true" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebpackConfig_ScssAnt/package.json" />
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/base/_color.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/base/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/abstracts/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/pages/_404.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/vendors/_bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/abstracts/_functions.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/abstracts/_utility.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="98" column="37" lean-forward="true" selection-start-line="98" selection-start-column="37" selection-end-line="98" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/abstracts/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/base/_reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="57" column="4" lean-forward="true" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/pages/_top.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/_modules.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/layout/_header.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/layout/_sidebar.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/layout/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/_form.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/_modal.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/_icon.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/_table.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/pages/_ie.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/css/main.blocks.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28452">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="e#28701#28935#2" expanded="true" />
+            <element signature="e#29846#29999#1" expanded="true" />
+            <element signature="e#30041#30275#1" expanded="true" />
+            <element signature="e#33655#33931#2" expanded="true" />
+            <element signature="e#34870#35023#1" expanded="true" />
+            <element signature="e#35065#35341#1" expanded="true" />
+            <element signature="e#69477#69664#2" expanded="true" />
+            <element signature="e#69919#70055#2" expanded="true" />
+            <element signature="e#70508#70641#2" expanded="true" />
+            <element signature="e#72011#72164#1" expanded="true" />
+            <element signature="e#85701#85931#2" expanded="true" />
+            <element signature="e#86962#87198#2" expanded="true" />
+            <element signature="e#121834#122011#2" expanded="true" />
+            <element signature="e#122066#122243#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="400">
+            <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

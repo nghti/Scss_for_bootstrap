@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>webpack 4</title>
+</head>
+<body>
+  <!-- ====================================================================-->
+  <!-- header-->
+  <!-- ====================================================================-->
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">Navbar</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Dropdown
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </nav>
+  </header>
+  <section class="container-fluid">
+    <div class="row">
+      <!-- ====================================================================-->
+      <!-- sidebar-->
+      <!-- ====================================================================-->
+      <aside class="col-12 col-md-3 border-right mt-15 text-capitalize">
+        <div class="sidebar__item">
+          <h4>Bootstrap</h4>
+          <ul class="sidebar__list">
+            <li><a href="#">Display</a></li>
+            <li><a href="#">Float</a></li>
+            <li><a href="#">Position</a></li>
+            <li><a href="#">Text</a></li>
+            <li><a href="#">Shadows</a></li>
+            <li><a href="#">Visibility</a></li>
+            <li><a href="#">Flex</a></li>
+            <li><a href="#">Vertical align</a></li>
+            <li><a href="#">Sizing</a></li>
+            <li><a href="#">Spacing</a></li>
+            <li><a href="#">Borders</a></li>
+          </ul>
+        </div>
+        <div class="sidebar__item">
+            <h4>functions</h4>
+            <ul class="sidebar__list">
+              <li><a href="#">Width</a></li>
+              <li><a href="#">Height</a></li>
+              <li><a href="#">Margin & Padding</a></li>
+              <li><a href="#">font-size</a></li>
+              <li><a href="#">line-height</a></li>
+              <li><a href="#">position</a></li>
+              <li><a href="#">Order</a></li>
+            </ul>
+          </div>
+          <div class="sidebar__item">
+            <h4>utilities</h4>
+            <ul class="sidebar__list">
+                <li><a href="#">border</a></li>
+                <li><a href="#">rounded</a></li>
+                <li><a href="#">cursor</a></li>
+                <li><a href="#">auto box</a></li>
+                <li><a href="#">overflow</a></li>
+                <li><a href="#">text</a></li>
+                <li><a href="#">flex</a></li>
+                <li><a href="#">Helper</a></li>
+              </ul>
+          </div>
+      </aside>
+      <section class="col-12 col-md-9 py-md-20 pl-md-20 bd-content">
+        <div class="bootstrap">
+          <h2>Bootstrap</h2>
+          <figure class="bg-light p--10">
+            <code>
+              @include media-breakpoint-between(md, xl) { ... }
+            </code>
+          </figure>
+          <button type="button" class="btn btn-red">Primary</button>
+          <button type="button" class="btn btn-primary">Primary</button>
+        </div>
+      </section>
+    </div>
+  </section>
+  <!-- ====================================================================-->
+  <!-- footer-->
+  <!-- ====================================================================-->
+  <footer class="footer border-top text-center p-10">
+    <p>© Company 2017</p>
+  </footer>
+  <script src="../js/main.js"></script>
+</body>
+</html>
